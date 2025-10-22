@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0g5Cjf1/c1.png",How to play the video from a website?
+https://raw.githubusercontent.com/alanpnielsen/videos-/main/play.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLRhTPRN/c2.png",How to create my playlist?
+https://raw.githubusercontent.com/alanpnielsen/videos-/main/lists.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6cHTb3L0/c3.png",How to play videos on my TV?
+https://raw.githubusercontent.com/alanpnielsen/videos-/main/cast.mp4
